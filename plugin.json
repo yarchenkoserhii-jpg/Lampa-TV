@@ -1,0 +1,11 @@
+{
+  "plugin": true,
+  "name": "UAStream",
+  "author": "Serhii",
+  "version": "1.0.0",
+  "description": "Український стрімінг 🇺🇦",
+  "type": "video",
+  "url": "https://raw.githubusercontent.com/halksalazar-source/UAStream/main/index.js",
+  "poster": "https://i.ibb.co/3YyYh7L/ua-icon.png",
+  "language": "uk"
+}
